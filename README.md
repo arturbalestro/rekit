@@ -1,1 +1,1 @@
-# rekit
+# README
